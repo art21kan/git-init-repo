@@ -1,0 +1,139 @@
+/*.highlight.second{
+    color:red
+}
+
+div.secure{
+    background-color: green;
+}
+
+span.secure{
+    background-color: blue;
+    color: 444444;
+}
+
+.first .inner{
+    background-color: yellow;
+    color: black
+}
+
+
+input[type=text]{
+    background-color: yellow;
+    color: red;
+    border-radius: 10px;
+    padding-left: 20px
+}
+
+input[checked]{
+    outline: 2px solid red;
+}
+
+input[disabled]{
+    background-color: green;
+    border radius: 5px;
+    
+}
+
+a:hover{
+    color:red;
+    text-transform: uppercase;
+}
+
+input:focus{
+    background-color: black;
+}
+
+li:first-child{
+    color:orange;
+    text-decoration: underline;
+}
+
+li:last-child{
+    color:green;
+    }
+*/
+/*
+p::before{
+    content:" 😅 ";
+}
+
+p::after{
+    content:"! 🥰"
+}
+
+input::placeholder{
+color:green;
+font-style: italic;
+}
+
+input{
+    color:brown
+}
+
+body {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  background: url(https://habsida-lms.s3.ap-northeast-2.amazonaws.com/webcore/shooter.jpg) no-repeat 0 0;
+  background-size: auto;
+  min-height: auto;
+}
+
+.shooter-1 .target {
+  position: absolute;
+  top: 50px;
+  right: 50px;
+  display: flex;
+  justify-content: space-around;
+  width: 135px;
+  height: 30px;
+  margin: 0;
+  padding: 5px 5px;
+  list-style: none;
+  background: white;
+  border-radius: 2px;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+  transform: scale(1.2);
+  align-items: center;
+}
+
+.shooter-2 .target {
+  position: absolute;
+  top: 120px;
+  right: 50px;
+  display: flex;
+  justify-content: space-around;
+  width: 135px;
+  height: 30px;
+  margin: 0;
+  padding: 5px 5px;
+  list-style: none;
+  background: white;
+  border-radius: 2px;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+  transform: scale(1.2);
+  align-items: center;
+}
+
+li {
+  width: 13px;
+  height: 13px;
+  font-size: 0;
+  background-color: #333333;
+  border: 1px solid #333333;
+  border-radius: 50%;
+  margin: 0;
+}
+.shooter-1 .target .first .third .fourth {
+background-color: white;
+}
+.shooter-2 .target .second .third .fourth .fifth {
+background-color: white;
+}
+.shooter-1 .target .second .fifth {
+background-color: red;
+}
+.shooter-2 .target .first {
+background-color: white;
+}
+*/
