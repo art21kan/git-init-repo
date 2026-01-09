@@ -137,3 +137,68 @@ background-color: red;
 background-color: white;
 }
 */
+
+.inline-block {
+    border: 3px solid green;
+    background-color: lightgreen;
+    display: inline-block;
+    width:100px;
+    padding: 10px;
+    margin:10px;
+}
+
+.block {
+    display: block;
+    border: 3px solid red;
+    background-color: lightcoral;
+    color:white;
+    padding: 10px;
+    margin:10px;
+    width: 100px;
+}
+
+.none {
+    display:none;
+    border: 3px solid blue;
+    background-color: lightskyblue;
+    color:black;
+    padding: 10px;
+    margin:10px;
+    width: 100px;
+}
+
+.inline {
+    display:inline;
+    border: 3px solid purple;
+    background-color: lightpink;
+    color: white;
+    padding: 10px;
+    margin:10px;
+    width: 100px; 
+}
+
+.flex {
+    display: flex;
+    box-sizing: border-box;
+    border: 3px solid blue;
+    background-color: lightsalmon;
+    color:white;
+    padding: 10px;
+    margin:10px;
+    width: 150px;
+    justify-content: center;
+    align-items: center;
+}
+
+.inline-flex {
+    display:inline-flex;
+    box-sizing: border-box;
+    border: 3px solid purple;
+    background-color: lightyellow;
+    color:black;
+    padding: 10px;
+    margin:10px;
+    width: 100px;
+    justify-content: center;
+    align-items: center;
+}
