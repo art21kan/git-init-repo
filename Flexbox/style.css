@@ -1,0 +1,33 @@
+/*.parent {
+    display: flex;
+    background-color: skyblue;
+    flex-direction: row;
+    max-width: 500px;
+    flex-wrap: wrap;
+}
+
+.child {
+    min-width: 500px;
+    height: 100px;
+    justify-content: center;
+    text-align: center;
+    border: 3px solid white;
+}*/
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.nav_container {
+display: flex;
+justify-content: space-between;
+margin: 20px;
+}
+
+.nav_items {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+}
