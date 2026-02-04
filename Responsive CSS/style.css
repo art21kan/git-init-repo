@@ -9,11 +9,11 @@ body{
     line-height: 1.6;
 }
 
-.main{
+.page{
     max-width: 1200px;
 }
 
-h2{
+.page__title{
     color: #667eea;
     margin-bottom: 20px;
     margin: 20px;
